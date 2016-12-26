@@ -21,16 +21,23 @@
 
 
 - Qui est Grace Hopper ?
-
+	Grace Hopper est une mathématicienne était une vice-amiral de la marine américaine, elle fut également une pionnière du développement des technologies informatiques.
+	http://www.universalis.fr/encyclopedie/grace-hopper/
+	http://www.amazingwomeninhistory.com/amazing-grace-hopper-computer-programmer/
+	http://www.biography.com/people/grace-hopper-21406809#return-to-the-navy-
+	http://binaire.blog.lemonde.fr/2015/03/08/la-petulante-grace-hopper/
 
 - Qu'est-ce que Qwant ?
 
 
 - Qui est Steve Wozniak ?
+	
+
+- D'où vient l'expression "bug informatique" ?
 
 
-- D'où vient l'expression "bug informatique" ?Qui est Aaron Swartz ?
-
+-Qui est Aaron Swartz ?
+	
 
 - Qu’est-ce que le projet GNU ?
 
@@ -160,6 +167,7 @@ utiliser et pourquoi ?
 	Tim Berners-Lee, physicien britannique, inventeur du web au CERN en 1989. Il a été à l'origine du programme baptisé "World Wide Web". 
 	https://home.cern/fr/topics/birth-web
 	http://www.futura-sciences.com/tech/personnalites/tech-tim-berners-lee-443/
+	http://webfoundation.org/about/vision/history-of-the-web/
 
 - Comment sont reliés les différents réseaux d'internet ?
 
