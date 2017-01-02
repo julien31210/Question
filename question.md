@@ -28,7 +28,9 @@
 	http://binaire.blog.lemonde.fr/2015/03/08/la-petulante-grace-hopper/
 
 - Qu'est-ce que Qwant ?
-
+	Qwant est un moteur de recherche Français créé le 16 janvier 2013
+	https://www.qwant.com/?l=fr
+	https://fr.wikipedia.org/wiki/Qwant
 
 - Qui est Steve Wozniak ?
 	
